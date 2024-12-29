@@ -14,7 +14,7 @@ Transformers typically use an encoder-decoder architecture. The encoder processe
 
 ### Self-Attention
 
-Self-attention is a specific type of attention mechanism where each word in the input sequence attends to all other words in the sequence. This allows the model to build a rich representation of the input by considering the context of each word.
+Self-attention is a specific type of attention mechanism where each word in the input sequence attends to all other words in the sequence. This mechanism allows the model to weigh the importance of different words or tokens in a sequence relative to each other. This allows the model to build a rich representation of the input by considering the context of each word.
 
 ## Applications
 
